@@ -9,4 +9,4 @@
 
 ## Section - B
 
-Study the data and proposed a story. Like **What kind of accidents are more frequent?** or **At What time cops are more active?**. Just any observation which you foresee.
+Study the data and propose a story. Like **What kind of accidents are more frequent?** or **At What time cops are more active?**. Just any observation which you foresee.
